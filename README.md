@@ -27,13 +27,13 @@ Calculadora de IMC foi um aplicativo que desenvolvi para dar meus primeiros pass
 - Melhorar estilização do app
 
 ## Author
-Roque Buarque Junior (follow me on [Twitter](https://twitter.com/roquebuarque))
+Alvaro Toledo (follow me on [Twitter](http))
 
 ## License
 ```
 The MIT License (MIT)
 
-Copyright (c) 2021 Roque Buarque Junior
+Copyright (c) 2023 Alvaro Toledo
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
