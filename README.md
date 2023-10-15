@@ -1,4 +1,4 @@
-## Olá! Eu sou o Álvaro Toledo 🖐️
+### Olá! Eu sou o Álvaro Toledo 🖐️
 
 📫 Gostaria de me conhecer?
 
